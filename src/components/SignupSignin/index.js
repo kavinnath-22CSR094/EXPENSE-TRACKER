@@ -169,7 +169,7 @@ function SignupsigninComponent() {
             lable={"email "} 
             state={email}  
             setState={setEmail}
-            placeholder={"KeshoreMurugesan@gmail.com"}
+            placeholder={"kavinnath@gmail.com"}
             />
 
             <Input 
@@ -213,7 +213,7 @@ function SignupsigninComponent() {
             lable={"full Name"} 
             state={name}  
             setState={setName}
-            placeholder={"Keshore Murugesan"}
+            placeholder={"Kavinnath"}
             />
 
             <Input 
@@ -221,7 +221,7 @@ function SignupsigninComponent() {
             lable={"email "} 
             state={email}  
             setState={setEmail}
-            placeholder={"KeshoreMurugesan@gmail.com"}
+            placeholder={"kavinnath@gmail.com"}
             />
 
             <Input 
